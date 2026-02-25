@@ -114,5 +114,4 @@ This system is intended for clinical decision support, not autonomous diagnosis.
 
 ---
 
-## Project Structure
 
